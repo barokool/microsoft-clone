@@ -1,0 +1,16 @@
+.bg-custom { 
+    background: #e6e6e6;
+}
+.menu a:hover {
+    border-bottom:1px solid; 
+}
+.menu p:hover { 
+    border-bottom:1px solid; 
+
+}
+.colortext { 
+    color:#616161;
+}
+.divide a { 
+    margin: 1rem;
+}
