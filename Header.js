@@ -21,7 +21,6 @@ const Header = () => {
                             <a className="ml-4 text-sm" href="#">Window</a>
                             <a className="ml-4 text-sm" href="#">Xbox</a>
                             <a className="ml-4 text-sm" href="#">Support</a>
-                            damn
                         </div>
                     </div>
                     <div className="max-w-full ml-auto menu flex items-center">
